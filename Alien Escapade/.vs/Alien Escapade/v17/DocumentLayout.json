@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|f:\\unity3d\\3d\\my games\\game jams\\drop bear horror jam\\alien escapade\\assets\\scenes\\scripts\\managelevel\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\managelevel\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\managelevel\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\managelevel\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\movement\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\movement\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\movement\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\movement\\playerlook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\managelevel\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\managelevel\\endtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\alien\\followpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\alien\\followpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\assets\\scenes\\scripts\\movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA743FD-AD37-75F2-04D2-D165E183E3E1}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\manageLevel\\MenuManager.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\manageLevel\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:37:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\manageLevel\\GameManager.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\manageLevel\\GameManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwEEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:14:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "endTrigger.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\endTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\manageLevel\\endTrigger.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\manageLevel\\endTrigger.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\manageLevel\\endTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:13:33.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "followPath.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\alien\\followPath.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\alien\\followPath.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\alien\\followPath.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\alien\\followPath.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:09:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerLook.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\PlayerLook.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\movement\\PlayerLook.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\PlayerLook.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\movement\\PlayerLook.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:00:11.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\movement\\InputManager.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\InputManager.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\movement\\InputManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:07:00.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scenes\\scripts\\movement\\PlayerMovement.cs",
+              "ToolTip": "F:\\Unity3D\\3D\\my games\\Game Jams\\Drop Bear Horror Jam\\Alien Escapade\\Assets\\scenes\\scripts\\movement\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\scenes\\scripts\\movement\\PlayerMovement.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:45:08.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
